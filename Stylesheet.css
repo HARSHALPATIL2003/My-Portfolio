@@ -251,6 +251,7 @@ body {
         border: 1px solid black;
         border-radius: 12px;
         box-shadow: 0.5px 0px 4px 01px black;
+        margin-bottom: 0.7rem;
 
     }
 
@@ -258,8 +259,8 @@ body {
         font-size: 0.9rem;
         color: var(--dark-gray);
         text-align: center;
-        max-width: 95%;
-        margin-left: -1.2rem;
+        max-width: 90%;
+        margin-left: -1.3rem;
         margin-right: -1rem;
 
     }
