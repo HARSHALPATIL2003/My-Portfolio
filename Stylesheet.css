@@ -217,7 +217,7 @@ body {
     }
 
     .leftbox {
-
+        margin-top: -2.1rem;
         display: flex;
         flex-direction: column;
         width: 140%;
@@ -230,11 +230,11 @@ body {
         font-family: 'Inter', sans-serif;
         color: var(--light-black);
         text-align: center;
-        margin-left: -6rem;  
+        margin-left: -5.7rem;  
     }
 
     .developer {
-        margin-left: -6.2rem;
+        margin-left: -5.7rem;
         font-size: 1.5rem;
         font-weight: 400;
         color: var(--text-color);
@@ -250,15 +250,15 @@ body {
         font-size: 0.9rem;
         color: var(--dark-gray);
         text-align: center;
-        max-width: 82%;
+        max-width: 85%;
         margin-left: -1.2rem;
 
     }
 
     .hii {
         display: flex;
-        align-items: start;
-        justify-content: start;
+        align-items: flex-start;
+        justify-content: flex-start;
     }
 
     .hello-button {
@@ -266,7 +266,7 @@ body {
         border: 1px solid black;
         background-color: var(--light-black);
         height: 2.8rem;
-        margin-left: -1.3rem;
+        margin-left: -1.5rem;
         width: 7.2rem;
         border-radius: 10px;
         color: white;
@@ -287,7 +287,7 @@ body {
         justify-content: center;
         gap: 1rem; 
         padding-top: 0.7rem;
-        margin-left: 2rem;
+        margin-left: 1.8rem;
 
     }
     .insta{
@@ -295,7 +295,7 @@ body {
     }
 
     .rightbox{
-      margin-left: -16rem;
+      margin-left: -14.8rem;
     }
     .image{
         height: 15rem;
