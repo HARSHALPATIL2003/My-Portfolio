@@ -243,6 +243,7 @@ body {
     }
 
     .descrip {
+        margin-top: 10px;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -252,7 +253,7 @@ body {
         border-radius: 12px;
         box-shadow: 0.5px 0px 4px 01px black;
         margin-bottom: 0.8rem;
-        margin-left: -2rem;
+        margin-left: -1.3rem;
 
     }
 
