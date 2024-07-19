@@ -230,11 +230,11 @@ body {
         font-family: 'Inter', sans-serif;
         color: var(--light-black);
         text-align: center;
-        margin-left: -6.5rem;  
+        margin-left: -6rem;  
     }
 
     .developer {
-        margin-left: -6.5rem;
+        margin-left: -6.2rem;
         font-size: 1.5rem;
         font-weight: 400;
         color: var(--text-color);
@@ -251,7 +251,7 @@ body {
         color: var(--dark-gray);
         text-align: center;
         max-width: 82%;
-        margin-left: -1.5rem;
+        margin-left: -1.2rem;
 
     }
 
@@ -266,7 +266,7 @@ body {
         border: 1px solid black;
         background-color: var(--light-black);
         height: 2.8rem;
-        margin-left: -1rem;
+        margin-left: -1.3rem;
         width: 7.2rem;
         border-radius: 10px;
         color: white;
