@@ -78,6 +78,7 @@ body {
 
 .social {
     display: flex;
+    margin-top: -5rem;
     flex-direction: column;
     justify-content: center;
     gap: 1rem;
@@ -164,6 +165,29 @@ body {
     display: none;
 }
 
+.Scroole{
+    display: flex;
+    padding-top: 6rem;
+   
+}
+.croll{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
+}
+
+.mousee{
+    height: 1.3rem;
+}
+.sroll{
+    font-size: 0.9rem;
+    color: var(--dark-gray);
+}
+.sroll:hover{
+    color: var(--light-black);
+}
+
 @media screen and (max-width:440px) {
     .nav {
         display: none;
@@ -206,12 +230,11 @@ body {
         font-family: 'Inter', sans-serif;
         color: var(--light-black);
         text-align: center;
-        margin-left: -5rem;
-        
+        margin-left: -6.5rem;  
     }
 
     .developer {
-        margin-left: -5rem;
+        margin-left: -6.5rem;
         font-size: 1.5rem;
         font-weight: 400;
         color: var(--text-color);
@@ -221,15 +244,14 @@ body {
 
     .descrip {
         max-width: 100%;
-
     }
 
     .text {
         font-size: 0.9rem;
         color: var(--dark-gray);
         text-align: center;
-        max-width: 85%;
-        margin-left: -1rem;
+        max-width: 82%;
+        margin-left: -1.5rem;
 
     }
 
@@ -243,8 +265,9 @@ body {
 
         border: 1px solid black;
         background-color: var(--light-black);
-        height: 2.7rem;
-        width: 7rem;
+        height: 2.8rem;
+        margin-left: -1rem;
+        width: 7.2rem;
         border-radius: 10px;
         color: white;
         display: flex;
@@ -262,22 +285,26 @@ body {
         flex-direction: row;
         align-items: center;
         justify-content: center;
-        gap: 2rem; 
+        gap: 1rem; 
         padding-top: 0.7rem;
-        margin-left: 4rem;
+        margin-left: 2rem;
 
     }
     .insta{
-        height: 1.6rem;
+        height: 1.7rem;
     }
 
     .rightbox{
-      margin-left: -11rem;
+      margin-left: -16rem;
     }
     .image{
         height: 15rem;
     }
 
+
+    .Scroole{
+        display: none;
+    }
 
 
 
