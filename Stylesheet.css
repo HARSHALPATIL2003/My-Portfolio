@@ -217,7 +217,7 @@ body {
     }
 
     .leftbox {
-        margin-top: -4rem;
+        margin-top: -3.5rem;
         display: flex;
         flex-direction: column;
         width: 140%;
@@ -251,8 +251,8 @@ body {
         border: 1px solid black;
         border-radius: 12px;
         box-shadow: 0.5px 0px 4px 01px black;
-        margin-bottom: 0.3rem;
-        margin-left: -1.5rem;
+        margin-bottom: 0.8rem;
+        margin-left: -2.4rem;
 
     }
 
@@ -260,9 +260,9 @@ body {
         font-size: 0.9rem;
         color: var(--dark-gray);
         text-align: center;
-        max-width: 90%;
+        max-width: 95%;
         margin-left: -1.9rem;
-        margin-right: -1rem;
+        margin-right: -1.9rem;
 
     }
 
