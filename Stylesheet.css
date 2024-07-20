@@ -251,7 +251,7 @@ body {
         max-width: 87%;
         border: 1px solid black;
         border-radius: 12px;
-        box-shadow: 0.5px 0px 4px 01px black;
+        box-shadow: 0.1px 0px 5px 0.1px black;
         margin-bottom: 0.8rem;
         margin-left: -1.3rem;
 
@@ -259,7 +259,7 @@ body {
 
     .text {
         font-size: 0.9rem;
-        color: var(--dark-gray);
+        color:#7c7878;
         text-align: center;
         max-width: 95%;
         margin-left: -1.9rem;
