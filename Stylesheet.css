@@ -188,6 +188,32 @@ body {
     color: var(--light-black);
 }
 
+.exception{
+    margin-top: -1.5rem;
+  padding: 1rem;
+
+}
+.constr{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    height: 10%;
+    gap: 0.1rem;
+    
+}
+.maintennan{
+    height: 5rem;
+   
+}
+.textii{
+    font-size: 1rem;
+    color: var(--gray);
+}
+
+
+
+
 @media screen and (max-width:440px) {
     .nav {
         display: none;
@@ -217,7 +243,7 @@ body {
     }
 
     .leftbox {
-        margin-top: -3.5rem;
+        margin-top: -2rem;
         display: flex;
         flex-direction: column;
         width: 140%;
